@@ -1,0 +1,46 @@
+body {
+    background-color: #00c8eb;
+    font-family: sans-serif;
+    margin: auto;
+
+}
+.jumbotron {
+    padding: 60px;
+    background-color: #00c8eb;
+    text-align: center;
+}
+h2 {
+    text-align: center;
+    background-color: gainsboro;
+    margin: 0;
+    padding: 15px;
+}
+.list-produk {
+    margin: 35px;
+    display: flex;
+    background-color: #00c8eb;
+}
+.button {
+    text-align: center;
+}
+#button:hover {
+    font-size: large;
+}
+.judul-produk {
+    font-size: smaller;
+    text-align: center;
+}
+.produk {
+    width: auto;
+    background-color: #00c8eb;
+    padding: auto;
+    margin: 5px;
+    font-size: small;
+}
+footer {
+    text-align: center;
+}
+footer a {
+    text-decoration: none;
+    color: #000;
+}
